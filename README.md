@@ -1,1 +1,1 @@
-# A repository to store all projects and tests related to "The Odin Project"
+# Recipe book for the odin project
